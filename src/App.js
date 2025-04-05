@@ -10,6 +10,7 @@ import MemoryUpload from './components/MemoryUpload';
 import GardenView from './components/GardenView';
 import MemoryDetail from './components/MemoryDetail';
 import MemoryExercise from './components/MemoryExercise';
+import FlowerComponent from './path/to/FlowerComponent';
 
 function App() {
   return (
